@@ -3,7 +3,7 @@ This repository chronicles my lifelong journey to becoming an AI &amp; ML Engine
 
 📘 About This Repository
 
-This repository is my personal learning archive — a continuous journey into the world of Artificial Intelligence and Machine Learning.
+This repository is my personal learning archive a continuous journey into the world of Artificial Intelligence and Machine Learning.
 
 📅 Daily learnings & study notes
 
