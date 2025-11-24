@@ -24,6 +24,7 @@ My goal is to stay consistent, improve every day, and create a transparent recor
 To build strong foundations, master industry workflows, and become a highly skilled AI/ML Engineer capable of solving real-world problems using data, algorithms, and modern tools.
  
 Roadmap 
+
 1️⃣ Foundations
 
 Python basics
